@@ -2,6 +2,8 @@
 
 A simple HTML project built as part of [The Odin Project](https://www.theodinproject.com/) curriculum. This website showcases a collection of recipes using basic HTML elements and file structure.
 
+🔗 **Live Site:** [omarjeghale.github.io/odin-recipes](https://omarjeghale.github.io/odin-recipes)
+
 ## 📁 Project Structure
 
 - HTML boilerplate in all files
@@ -12,8 +14,3 @@ A simple HTML project built as part of [The Odin Project](https://www.theodinpro
   - 📝 Description
   - 🧂 Ingredients list (unordered)
   - 🍳 Step-by-step instructions (ordered)
-
-
----
-
-Feel free to customize the recipe names, images, or structure to match your personal preferences!
