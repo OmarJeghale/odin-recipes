@@ -28,8 +28,8 @@ A simple static website built using **HTML** as part of [The Odin Project](https
 
 ---
 
-## 🔗 Connect with Me
+## 🤝 Connect with Me
 
-**👤 Omar Jeghalef**  
-📬 [LinkedIn](https://linkedin.com/in/omar-jeghalef)  
-💻 [GitHub](https://github.com/OmarJeghale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-jeghalef/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/OmarJeghale)
+
