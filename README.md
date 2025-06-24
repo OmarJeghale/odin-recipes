@@ -26,7 +26,6 @@ A simple static website built using **HTML** as part of [The Odin Project](https
 - Using semantic HTML tags for structure and accessibility
 - Building internal navigation and working with relative paths
 
----
 
 ## 🔗 Connect with Me
 
